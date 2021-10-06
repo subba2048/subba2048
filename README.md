@@ -1,16 +1,26 @@
+
+
+<!-- ![Banner](banner.gif) -->
+
 ### Hi there 👋
 
-<!--
-**jsCoder020193/jsCoder020193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [University of Texas Rio Grande Valley](https://www.utrgv.edu/en-us/) as Full Stack Software Developer. 🥑
+- 🌱 I’m currently improving my Deep Learning skills and pursuing Masters of Science in Computer Science at [UTRGV](https://www.utrgv.edu/en-us/).
+- 👯 I’m looking to collaborate on open source, web development, app development and machine learning projects.
+- 🤔 I’m looking for help with Docker containers.
+- 💬 Ask me about Full Stack Engineering, Machine Learning and Computer Science.
+- 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/subbalakshmim/) [Medium](http://subba-lakshmi.medium.com) or [Twitter](https://twitter.com/subbalakshmi___), mail me at [subba020193@gmail.com](mailto:subba020193@gmail.com) or go check my own [website](https://www.linkedin.com/in/subbalakshmim/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can eat a lot of tacos, like, really a lot. 🌮🌮🌮
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Coding stats 🔥
+
+<!--START_SECTION:waka-->
+```text
+Python        █████████████████████████   100.00 % 
+
+Java          █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
