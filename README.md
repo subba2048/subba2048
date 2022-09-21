@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working at [University of Texas Rio Grande Valley](https://www.utrgv.edu/en-us/) as Full Stack Software Developer. 🥑
+- 🔭 I’m currently working at [University of Texas Rio Grande Valley](https://www.utrgv.edu/en-us/) as Software Engineer. 🥑
 - 🌱 I’m currently improving my Deep Learning skills and pursuing Masters of Science in Computer Science at [UTRGV](https://www.utrgv.edu/en-us/).
 - 👯 I’m looking to collaborate on open source, web development, app development and machine learning projects.
 - 🤔 I’m looking for help with Docker containers.
