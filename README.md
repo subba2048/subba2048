@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open source, web development, app development and machine learning projects.
 - 🤔 I’m looking for help with Docker containers.
 - 💬 Ask me about Full Stack Engineering, Machine Learning and Computer Science.
-- 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/subbalakshmim/) [Medium](http://subba-lakshmi.medium.com) or [Twitter](https://twitter.com/subbalakshmi___), mail me at [subba020193@gmail.com](mailto:subba020193@gmail.com) or go check my own [website](https://www.linkedin.com/in/subbalakshmim/)
+- 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/subbalakshmim/) [Medium](http://subba-lakshmi.medium.com) or [Twitter](https://twitter.com/subbalakshmi___), or go check my own [website](https://www.linkedin.com/in/subbalakshmim/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can eat a lot of tacos, like, really a lot. 🌮🌮🌮
 
